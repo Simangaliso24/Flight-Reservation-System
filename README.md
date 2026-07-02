@@ -17,9 +17,13 @@ A Windows Forms application built in C++/CLI for managing flight reservations.
 ## 📸 Screenshots
 Screenshots of the forms are available in the `Shoots` folder.
 
-Example:
-![Login Form](Shoots/3.png)
-![Booking Form](Shoots/5.png)
+| Home | Signup | Login | Reset Password |
+|-------|--------|------------|
+| ![Home](Shoots/1.png) | ![Signup](Shoots/2.png) | ![Login](Shoots/3.png) | ![password reset](Shoots/4.png) |
+
+| Booking | | Admin | Add/Edit Flight | Add/Edit Passenger |
+|------|---------|-------|------------|
+| ![Booking](Shoots/5.png) | ![Admin](Shoots/6.png) | ![Add/Edit Flight](Shoots/7.png) | ![Add/Edit Passenger](Shoots/8.png) |
 
 ---
 
