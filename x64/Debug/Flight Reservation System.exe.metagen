@@ -1,0 +1,152 @@
+  FlightReservationSystem.frmAdmin.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmBooking.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmFlightDetails.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmLogin.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmMain.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmPassenger.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmPassengerDetails.resources - Embedded, ContainedInManifestFile, 
+  FlightReservationSystem.frmResetPassword.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Flight Reservation System, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Booking: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, System.String, System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetBookingId(): PrivateScope, Public, HideBySig
+    GetPassengerId(): PrivateScope, Public, HideBySig
+    GetFlightId(): PrivateScope, Public, HideBySig
+    GetSeatNumber(): PrivateScope, Public, HideBySig
+    GetStatus(): PrivateScope, Public, HideBySig
+    GetPrice(): PrivateScope, Public, HideBySig
+    SetBookingId(Int32): PrivateScope, Public, HideBySig
+    SetPassengerId(Int32): PrivateScope, Public, HideBySig
+    SetFlightId(Int32): PrivateScope, Public, HideBySig
+    SetSeatNumber(String): PrivateScope, Public, HideBySig
+    SetStatus(String): PrivateScope, Public, HideBySig
+    SetPrice(Double): PrivateScope, Public, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class BookingDBHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetFlights(): PrivateScope, Public, Static, HideBySig
+    GetPassengers(): PrivateScope, Public, Static, HideBySig
+    IsDuplicateBooking(String, String): PrivateScope, Public, Static, HideBySig
+    GenerateNextBookingId(): PrivateScope, Public, Static, HideBySig
+    InsertBooking(String, String, String, String, String, DateTime, DateTime, Int32, Int32, String, Double): PrivateScope, Public, Static, HideBySig
+    ReduceSeats(String, Int32): PrivateScope, Public, Static, HideBySig
+Class FlightReservationSystem.frmBooking: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FlightReservationSystem.frmFlightDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.String, System.String, System.DateTime, System.DateTime, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Price 'get ' : 
+    System.String Seats 'get ' : 
+    System.DateTime ArrivalDate 'get ' : 
+    System.DateTime DepartureDate 'get ' : 
+    System.String To 'get ' : 
+    System.String From 'get ' : 
+    System.String FlightID 'get ' : 
+  Methods:
+    get_FlightID(): PrivateScope, Public, HideBySig, SpecialName
+    get_From(): PrivateScope, Public, HideBySig, SpecialName
+    get_To(): PrivateScope, Public, HideBySig, SpecialName
+    get_DepartureDate(): PrivateScope, Public, HideBySig, SpecialName
+    get_ArrivalDate(): PrivateScope, Public, HideBySig, SpecialName
+    get_Seats(): PrivateScope, Public, HideBySig, SpecialName
+    get_Price(): PrivateScope, Public, HideBySig, SpecialName
+Class AdminDBHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetFlights(): PrivateScope, Public, Static, HideBySig
+    AddFlight(String, String, String, DateTime, DateTime, Int32, Double): PrivateScope, Public, Static, HideBySig
+    UpdateFlight(String, String, String, DateTime, DateTime, Int32, Double): PrivateScope, Public, Static, HideBySig
+    DeleteFlight(String): PrivateScope, Public, Static, HideBySig
+    GetPassengers(): PrivateScope, Public, Static, HideBySig
+    DeletePassenger(String): PrivateScope, Public, Static, HideBySig
+    GetBookings(): PrivateScope, Public, Static, HideBySig
+    DeleteBooking(String): PrivateScope, Public, Static, HideBySig
+    CountBookings(): PrivateScope, Public, Static, HideBySig
+    GenerateNextFlightId(): PrivateScope, Public, Static, HideBySig
+    FlightExists(String, String, String, DateTime, DateTime): PrivateScope, Public, Static, HideBySig
+    UpdateSeats(String, Int32): PrivateScope, Public, Static, HideBySig
+    PassengerExists(String, String): PrivateScope, Public, Static, HideBySig
+    AddPassenger(String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+    UpdatePassenger(String, String, String, String): PrivateScope, Public, Static, HideBySig
+    GetConnectionString(): PrivateScope, Public, Static, HideBySig
+Class FlightReservationSystem.frmPassengerDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FlightReservationSystem.frmAdmin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ResetPasswordDBHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EmailExists(String): PrivateScope, Public, Static, HideBySig
+    UpdatePassword(String, String): PrivateScope, Public, Static, HideBySig
+Class FlightReservationSystem.frmResetPassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginDBHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ValidateAdmin(String, String): PrivateScope, Public, Static, HideBySig
+    ValidatePassenger(String, String): PrivateScope, Public, Static, HideBySig
+Class FlightReservationSystem.frmLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FlightReservationSystem.frmPassenger: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FlightReservationSystem.frmMain: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Flight: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetFlightId(): PrivateScope, Public, HideBySig
+    GetFlightNumber(): PrivateScope, Public, HideBySig
+    GetDeparture(): PrivateScope, Public, HideBySig
+    GetArrival(): PrivateScope, Public, HideBySig
+    GetDate(): PrivateScope, Public, HideBySig
+    GetTime(): PrivateScope, Public, HideBySig
+    GetSeatsAvailable(): PrivateScope, Public, HideBySig
+    SetFlightId(Int32): PrivateScope, Public, HideBySig
+    SetFlightNumber(String): PrivateScope, Public, HideBySig
+    SetDeparture(String): PrivateScope, Public, HideBySig
+    SetArrival(String): PrivateScope, Public, HideBySig
+    SetDate(String): PrivateScope, Public, HideBySig
+    SetTime(String): PrivateScope, Public, HideBySig
+    SetSeatsAvailable(Int32): PrivateScope, Public, HideBySig
+    ReduceSeat(): PrivateScope, Public, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class Passenger: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetPassengerId(): PrivateScope, Public, HideBySig
+    SetPassengerId(Int32): PrivateScope, Public, HideBySig
+    GetName(): PrivateScope, Public, HideBySig
+    SetName(String): PrivateScope, Public, HideBySig
+    GetContact(): PrivateScope, Public, HideBySig
+    SetContact(String): PrivateScope, Public, HideBySig
+    GetEmail(): PrivateScope, Public, HideBySig
+    SetEmail(String): PrivateScope, Public, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig

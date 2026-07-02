@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmPassengerDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmFlightDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmPassenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmBooking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmAdmin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmResetPassword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmResetPassword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmPassengerDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmPassenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmFlightDetails.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmBooking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmAdmin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\ResetPasswordDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\ResetPasswordDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Passenger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Passenger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\LoginDBhelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\LoginDBhelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Flight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Flight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\BookingDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\BookingDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Booking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\AdminDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\AdminDBHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Flight Reservation System\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\frmMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight Reservation System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAE867B-FC4D-4C53-8CAA-9FB19E37F980}|Flight Reservation System\\Flight Reservation System.vcxproj|solutionrelative:Flight Reservation System\\Flight Reservation System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdmin.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmAdmin.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmAdmin.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T11:34:49.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBooking.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmBooking.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmBooking.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T10:15:07.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFlightDetails.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmFlightDetails.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmFlightDetails.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T21:53:47.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPassenger.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmPassenger.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmPassenger.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T10:35:28.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPassengerDetails.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmPassengerDetails.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmPassengerDetails.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-09T11:54:52.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmResetPassword.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmResetPassword.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmResetPassword.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmResetPassword.h",
+              "RelativeToolTip": "Flight Reservation System\\frmResetPassword.h",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwLQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-10T12:35:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPassengerDetails.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmPassengerDetails.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassengerDetails.h",
+              "RelativeToolTip": "Flight Reservation System\\frmPassengerDetails.h",
+              "ViewState": "AgIAADoBAAAAAAAAAAAiwF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-09T12:06:10.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPassenger.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmPassenger.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmPassenger.h",
+              "RelativeToolTip": "Flight Reservation System\\frmPassenger.h",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAiwIwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T12:32:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmMain.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h",
+              "RelativeToolTip": "Flight Reservation System\\frmMain.h",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAiwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T19:37:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmLogin.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h",
+              "RelativeToolTip": "Flight Reservation System\\frmLogin.h",
+              "ViewState": "AgIAANgAAAAAAAAAAAAiwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T13:19:36.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmFlightDetails.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmFlightDetails.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmFlightDetails.h",
+              "RelativeToolTip": "Flight Reservation System\\frmFlightDetails.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T22:07:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBooking.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmBooking.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmBooking.h",
+              "RelativeToolTip": "Flight Reservation System\\frmBooking.h",
+              "ViewState": "AgIAAOUDAAAAAAAAAAAAAPYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T10:15:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAdmin.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmAdmin.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmAdmin.h",
+              "RelativeToolTip": "Flight Reservation System\\frmAdmin.h",
+              "ViewState": "AgIAANsDAAAAAAAAAAAiwOoDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T11:34:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordDBHelper.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\ResetPasswordDBHelper.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\ResetPasswordDBHelper.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\ResetPasswordDBHelper.h",
+              "RelativeToolTip": "Flight Reservation System\\ResetPasswordDBHelper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T14:07:45.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Passenger.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Passenger.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.h",
+              "RelativeToolTip": "Flight Reservation System\\Passenger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T18:25:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Passenger.cpp",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.cpp",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Passenger.cpp",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Passenger.cpp",
+              "RelativeToolTip": "Flight Reservation System\\Passenger.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T18:28:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDBhelper.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\LoginDBhelper.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\LoginDBhelper.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\LoginDBhelper.h",
+              "RelativeToolTip": "Flight Reservation System\\LoginDBhelper.h",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T13:45:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Flight.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Flight.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.h",
+              "RelativeToolTip": "Flight Reservation System\\Flight.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T18:32:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Flight.cpp",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.cpp",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Flight.cpp",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight.cpp",
+              "RelativeToolTip": "Flight Reservation System\\Flight.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-02T15:58:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Booking.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.h",
+              "RelativeToolTip": "Flight Reservation System\\Booking.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T18:37:26.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Booking.cpp",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.cpp",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Booking.cpp",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Booking.cpp",
+              "RelativeToolTip": "Flight Reservation System\\Booking.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-02T15:55:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "Flight Reservation System\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\SQLQuery1.sql",
+              "RelativeToolTip": "Flight Reservation System\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-13T13:13:56.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDBHelper.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\AdminDBHelper.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\AdminDBHelper.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\AdminDBHelper.h",
+              "RelativeToolTip": "Flight Reservation System\\AdminDBHelper.h",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAAEABAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T14:12:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingDBHelper.h",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\BookingDBHelper.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\BookingDBHelper.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\BookingDBHelper.h",
+              "RelativeToolTip": "Flight Reservation System\\BookingDBHelper.h",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T13:53:18.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmLogin.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmLogin.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmLogin.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmLogin.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T10:44:08.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMain.h [Design]",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h",
+              "RelativeDocumentMoniker": "Flight Reservation System\\frmMain.h",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\frmMain.h [Design]",
+              "RelativeToolTip": "Flight Reservation System\\frmMain.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T19:02:37.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Flight Reservation System.cpp",
+              "DocumentMoniker": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight Reservation System.cpp",
+              "RelativeDocumentMoniker": "Flight Reservation System\\Flight Reservation System.cpp",
+              "ToolTip": "C:\\Users\\studs\\Music\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Vital Tech Alliances\\Flight Reservation System\\Flight Reservation System\\Flight Reservation System.cpp",
+              "RelativeToolTip": "Flight Reservation System\\Flight Reservation System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T18:23:24.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
